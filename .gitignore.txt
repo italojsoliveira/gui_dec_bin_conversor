@@ -1,0 +1,6 @@
+__pycache__/
+gui_ex.py
+notes_flask_venv.py
+programa.zip
+note on requirements.txt
+venv/
